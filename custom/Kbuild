@@ -1,0 +1,1 @@
+obj-m	:=	ps2pi.o pi2hd44780.o
